@@ -89,58 +89,6 @@
       ],
       "status": "Finalizado",
       "id": "1"
-    },
-    {
-      "nome": "João Coelho",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": "4"
-    },
-    {
-      "id": "6924",
-      "nome": "Ricardo",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "7226",
-      "nome": "João",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "e9f8",
-      "nome": "Maria",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Pepino",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
     }
   ]
 }
