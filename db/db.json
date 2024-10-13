@@ -114,6 +114,33 @@
         "Cheddar"
       ],
       "status": "Solicitado"
+    },
+    {
+      "id": "7226",
+      "nome": "João",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "e9f8",
+      "nome": "Maria",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Pepino",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
     }
   ]
 }
